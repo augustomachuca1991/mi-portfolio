@@ -276,7 +276,7 @@ export default function Portfolio() {
                     height: 200,
                     borderRadius: 10,
                     marginBottom: 20,
-                    backgroundImage: "url('/src/assets/profile/01.webp')",
+                    backgroundImage: "url('/profile/01.webp')",
                     backgroundSize: "cover",
                     backgroundPosition: "center top",
                     display: "flex",

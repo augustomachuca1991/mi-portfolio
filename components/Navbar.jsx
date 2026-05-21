@@ -69,7 +69,7 @@ const Navbar = ({ t, lang, setLang, scrolled, active, navIds, sectionRefs }) => 
           {/* Actions — desktop */}
           <div className="nav-actions-box" style={{ display: "flex", alignItems: "center", gap: 10 }}>
             <LangToggle lang={lang} setLang={setLang} />
-            <CvButton label={t.downloadCV} />
+            <CvButton label={t.downloadCV} href="/curriculum/MachucaFernandoAugustoCV.pdf" download="MachucaFernandoAugustoCV.pdf" />
           </div>
 
           {/* Hamburger — mobile */}
@@ -96,7 +96,7 @@ const Navbar = ({ t, lang, setLang, scrolled, active, navIds, sectionRefs }) => 
         ))}
         <div className="mobile-actions">
           <LangToggle lang={lang} setLang={setLang} />
-          <CvButton label={t.downloadCV} />
+          <CvButton label={t.downloadCV} href="/curriculum/MachucaFernandoAugustoCV.pdf" download="MachucaFernandoAugustoCV.pdf" />
         </div>
       </div>
     </>
@@ -119,9 +119,9 @@ function LangToggle({ lang, setLang }) {
   );
 }
 
-function CvButton({ label }) {
+function CvButton({ label, href, download }) {
   return (
-    <a href="/src/assets/curriculum/MachucaFernandoAugustoCV.pdf" target="_blank" rel="noopener noreferrer" download="MachucaFernandoAugustoCV.pdf">
+    <a href={href} target="_blank" rel="noopener noreferrer" download={download}>
       <button className="nav-btn-cv">
         {label}
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
