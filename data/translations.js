@@ -1,0 +1,206 @@
+export const T = {
+  es: {
+    role: "Analista Programador",
+    available: "Disponible para nuevas oportunidades · Corrientes, AR",
+    heroTitle: "Augusto",
+    heroDesc1:
+      "Desarrollador Frontend Semi-Senior / Fullstack especializado en construir interfaces altamente escalables, performantes y responsivas.",
+    heroDesc2:
+      "Stack complementado con sólido conocimiento en Back-End (Node.js, PostgreSQL, Laravel) y despliegues eficientes con Docker.",
+    seeProjects: "Ver proyectos",
+    contact: "Contactar",
+    downloadCV: "Descargar CV",
+    aboutLabel: "SOBRE MÍ",
+    aboutTitle: "Desarrollador",
+    aboutSub: "con propósito",
+    aboutP1:
+      "Soy Augusto, desarrollador web fullstack enfocado en construir sistemas que resuelven problemas reales para negocios y profesionales.",
+    aboutP2:
+      "Responsable, orientado a los desafíos y constantemente actualizado con las tecnologías que marcan la diferencia.",
+    expLabel: "TRAYECTORIA",
+    expTitle: "Experiencia",
+    stackLabel: "STACK TECNOLÓGICO",
+    stackTitle: "Stack",
+    stackItalic: "tecnológico.",
+    stackDesc:
+      "Herramientas elegidas con propósito. Probadas en producción, no checklist de CV.",
+    projLabel: "PROYECTOS",
+    projTitle: "Proyectos",
+    projItalic: "full-stack.",
+    projDesc: "Hacé click en cada proyecto para ver las capturas de pantalla.",
+    contactLabel: "CONTACTO",
+    contactTitle: "¿Arrancamos un proyecto?",
+    contactDesc:
+      "Escribime si buscás un perfil técnico enfocado en resultados, o si querés charlar sobre una idea a desarrollar.",
+    yourName: "Tu nombre",
+    yourEmail: "Tu email",
+    yourMessage: "Contame de tu proyecto...",
+    send: "Enviar mensaje",
+    footerRole: "Desarrollador Web Fullstack",
+    openToWork: "open to work",
+    live: "Live",
+    clickToView: "Ver proyecto",
+    navItems: ["Inicio", "Sobre mí", "Stack", "Proyectos", "Contacto"],
+    viewSite: "Visitar",
+    exp: [
+      {
+        date: "abr. 2024 - actualidad",
+        title: "Web Developer Fullstack",
+        place: "Freelance",
+        sub: null,
+        current: true,
+        tags: ["Node.js", "TypeScript", "Supabase", "React", "Tailwind CSS", "Docker"],
+      },
+      {
+        date: "mar. 2023 - abr. 2025 · 2 años 2 meses",
+        title: "Web Developer Front-end",
+        place: "Intuit Salud · Jornada completa",
+        sub: "Buenos Aires · En remoto",
+        current: false,
+        tags: ["React", "Vue 3", "Node.js", "Tailwind CSS", "Contentful", "Docker", "SCRUM"],
+      },
+      {
+        date: "abr. 2018 - ene. 2024 · 5 años 10 meses",
+        title: "Web Developer",
+        place: "Instituto de Previsión Social, IPS",
+        sub: "Corrientes, Argentina",
+        current: false,
+        tags: ["PHP", "Laravel", "Node.js", "Vue 3", "Bootstrap", "Docker", "PostgreSQL", "SCRUM"],
+      },
+    ],
+    projects: [
+      {
+        title: "Imagen Documental",
+        description:
+          "Espacio para compartir trabajos fotográficos que documentan la realidad y eventos sociales a través de la fotografía documental.",
+      },
+      {
+        title: "Gestión Odontológica",
+        description:
+          "Sistema de gestión para clínicas dentales — administración de pacientes, turnos e historias clínicas con panel profesional.",
+      },
+      {
+        title: "Recibo Digital IPS",
+        description:
+          "Plataforma web para la emisión y consulta de recibos digitales para afiliados de IPS Corrientes.",
+      },
+      {
+        title: "Omint Plan de Salud",
+        description:
+          "Portal web para gestión de plan de salud, consulta de coberturas y trámites online.",
+      },
+      {
+        title: "Portal Prestadores Omint",
+        description:
+          "Portal para gestión de prestadores de salud, trámites online e información de servicios Omint.",
+      },
+      {
+        title: "Panel Admin Odontología",
+        description:
+          "Panel de administración para clínicas — control de agenda, historia clínica e informes de actividad.",
+      },
+    ],
+  },
+  en: {
+    role: "Software Analyst / Developer",
+    available: "Available for new opportunities · Corrientes, AR",
+    heroTitle: "Augusto",
+    heroDesc1:
+      "Frontend Semi-Senior / Fullstack Developer specialized in building highly scalable, performant and responsive interfaces.",
+    heroDesc2:
+      "Stack complemented with solid Back-End knowledge (Node.js, PostgreSQL, Laravel) and efficient deployments with Docker.",
+    seeProjects: "See projects",
+    contact: "Contact",
+    downloadCV: "Download CV",
+    aboutLabel: "ABOUT ME",
+    aboutTitle: "Developer",
+    aboutSub: "with purpose",
+    aboutP1:
+      "I'm Augusto, a fullstack web developer focused on building systems that solve real problems for businesses and professionals.",
+    aboutP2:
+      "Responsible, challenge-driven and constantly updated with the technologies that make a difference.",
+    expLabel: "TIMELINE",
+    expTitle: "Experience",
+    stackLabel: "TECH STACK",
+    stackTitle: "Tech",
+    stackItalic: "stack.",
+    stackDesc:
+      "Tools chosen with purpose. Tested in production, not a CV checklist.",
+    projLabel: "PROJECTS",
+    projTitle: "Projects",
+    projItalic: "full-stack.",
+    projDesc: "Click on each project to see the screenshots.",
+    contactLabel: "CONTACT",
+    contactTitle: "Got a project?",
+    contactDesc:
+      "Reach out if you're looking for a results-driven technical profile, or if you want to discuss an idea to develop.",
+    yourName: "Your name",
+    yourEmail: "Your email",
+    yourMessage: "Tell me about your project...",
+    send: "Send message",
+    footerRole: "Fullstack Web Developer",
+    openToWork: "open to work",
+    live: "Live",
+    clickToView: "View project",
+    navItems: ["Home", "About", "Stack", "Projects", "Contact"],
+    viewSite: "View site",
+    exp: [
+      {
+        date: "Apr. 2024 - present",
+        title: "Web Developer Fullstack",
+        place: "Freelance",
+        sub: null,
+        current: true,
+        tags: ["Node.js", "TypeScript", "Supabase", "React", "Tailwind CSS", "Docker"],
+      },
+      {
+        date: "Mar. 2023 - Apr. 2025 · 2 years 2 months",
+        title: "Web Developer Front-end",
+        place: "Intuit Salud · Full-time",
+        sub: "Buenos Aires · Remote",
+        current: false,
+        tags: ["React", "Vue 3", "Node.js", "Tailwind CSS", "Contentful", "Docker", "SCRUM"],
+      },
+      {
+        date: "Apr. 2018 - Jan. 2024 · 5 years 10 months",
+        title: "Web Developer",
+        place: "Instituto de Previsión Social, IPS",
+        sub: "Corrientes, Argentina",
+        current: false,
+        tags: ["PHP", "Laravel", "Node.js", "Vue 3", "Bootstrap", "Docker", "PostgreSQL", "SCRUM"],
+      },
+    ],
+    projects: [
+      {
+        title: "Imagen Documental",
+        description:
+          "Space to share photographic works documenting reality and social events through documentary photography.",
+      },
+      {
+        title: "Gestión Odontológica",
+        description:
+          "Dental clinic management system — patient administration, appointments and clinical records with professional panel.",
+      },
+      {
+        title: "Recibo Digital IPS",
+        description:
+          "Web platform for digital payslip issuance and consultation for IPS Corrientes affiliates.",
+      },
+      {
+        title: "Omint Plan de Salud",
+        description:
+          "Web portal for health plan management, coverage consultation and online procedures.",
+      },
+      {
+        title: "Portal Prestadores Omint",
+        description:
+          "Portal for healthcare provider management, online procedures and Omint service information.",
+      },
+      {
+        title: "Panel Admin Odontología",
+        description:
+          "Administration panel for clinics — agenda control, clinical history and activity reports.",
+      },
+    ],
+  },
+};

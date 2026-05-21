@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "url": "imagendocumental.com",
+    "tags": ["Vue.js", "PHP", "MySQL", "Bootstrap"],
+    "year": "2022",
+    "type": "Full-Stack",
+    "live": true,
+    "imgColor": "#0b111e",
+    "images": [
+      "/src/assets/imagendocumental/01.webp",
+      "/src/assets/imagendocumental/02.webp",
+      "/src/assets/imagendocumental/03.webp",
+      "/src/assets/imagendocumental/04.webp",
+      "/src/assets/imagendocumental/05.webp",
+      "/src/assets/imagendocumental/06.webp",
+      "/src/assets/imagendocumental/07.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "url": "gestionodontologica.vercel.app",
+    "tags": ["React", "Node.js", "Supabase", "Tailwind"],
+    "year": "2026",
+    "type": "Full-Stack",
+    "live": true,
+    "imgColor": "#1a3a2a",
+    "images": ["/src/assets/odontologia/01.webp", "/src/assets/odontologia/02.webp"]
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "url": "ipscorrientes.gob.ar",
+    "tags": ["Laravel", "Docker", "SQL Server", "Bootstrap"],
+    "year": "2019",
+    "type": "Full-Stack",
+    "live": true,
+    "imgColor": "#29153b",
+    "images": ["/src/assets/recibodigital/01.webp", "/src/assets/recibodigital/02.webp", "/src/assets/recibodigital/03.webp"]
+  },
+  {
+    "id": 4,
+    "number": "04",
+    "url": "omint.com.ar/PlanDeSalud",
+    "tags": ["Contentful", "Vue.js 3", "JavaScript", "Responsive"],
+    "year": "2023",
+    "type": "Frontend",
+    "live": true,
+    "imgColor": "#0b1a2e",
+    "images": ["/src/assets/omint/01.webp", "/src/assets/omint/02.webp", "/src/assets/omint/03.webp", "/src/assets/omint/04.webp", "/src/assets/omint/05.webp", "/src/assets/omint/06.webp"]
+  },
+  {
+    "id": 5,
+    "number": "05",
+    "url": "prestadores.omint.com.ar",
+    "tags": ["React", "Tailwind CSS", "Vite", "TypeScript"],
+    "year": "2023",
+    "type": "Frontend",
+    "live": true,
+    "imgColor": "#2d1040",
+    "images": ["/src/assets/prestadores/01.webp", "/src/assets/prestadores/02.webp"]
+  }
+]
