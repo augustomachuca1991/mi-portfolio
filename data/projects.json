@@ -9,13 +9,13 @@
     "live": true,
     "imgColor": "#0b111e",
     "images": [
-      "/src/assets/imagendocumental/01.webp",
-      "/src/assets/imagendocumental/02.webp",
-      "/src/assets/imagendocumental/03.webp",
-      "/src/assets/imagendocumental/04.webp",
-      "/src/assets/imagendocumental/05.webp",
-      "/src/assets/imagendocumental/06.webp",
-      "/src/assets/imagendocumental/07.webp"
+      "/imagendocumental/01.webp",
+      "/imagendocumental/02.webp",
+      "/imagendocumental/03.webp",
+      "/imagendocumental/04.webp",
+      "/imagendocumental/05.webp",
+      "/imagendocumental/06.webp",
+      "/imagendocumental/07.webp"
     ]
   },
   {
@@ -27,7 +27,7 @@
     "type": "Full-Stack",
     "live": true,
     "imgColor": "#1a3a2a",
-    "images": ["/src/assets/odontologia/01.webp", "/src/assets/odontologia/02.webp"]
+    "images": ["/odontologia/01.webp", "/odontologia/02.webp"]
   },
   {
     "id": 3,
@@ -38,7 +38,7 @@
     "type": "Full-Stack",
     "live": true,
     "imgColor": "#29153b",
-    "images": ["/src/assets/recibodigital/01.webp", "/src/assets/recibodigital/02.webp", "/src/assets/recibodigital/03.webp"]
+    "images": ["/recibodigital/01.webp", "/recibodigital/02.webp", "/recibodigital/03.webp"]
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "type": "Frontend",
     "live": true,
     "imgColor": "#0b1a2e",
-    "images": ["/src/assets/omint/01.webp", "/src/assets/omint/02.webp", "/src/assets/omint/03.webp", "/src/assets/omint/04.webp", "/src/assets/omint/05.webp", "/src/assets/omint/06.webp"]
+    "images": ["/omint/01.webp", "/omint/02.webp", "/omint/03.webp", "/omint/04.webp", "/omint/05.webp", "/omint/06.webp"]
   },
   {
     "id": 5,
@@ -60,6 +60,6 @@
     "type": "Frontend",
     "live": true,
     "imgColor": "#2d1040",
-    "images": ["/src/assets/prestadores/01.webp", "/src/assets/prestadores/02.webp"]
+    "images": ["/prestadores/01.webp", "/prestadores/02.webp"]
   }
 ]
