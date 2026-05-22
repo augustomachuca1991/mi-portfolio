@@ -420,3 +420,42 @@ body {
     display: none !important;
   }
 }
+
+@media (max-width: 600px) {
+  main {
+    padding: 0 20px !important;
+  }
+
+  /* Hero h1 */
+  section#hero h1 {
+    font-size: 52px !important;
+  }
+
+  /* Hero section padding */
+  section#hero {
+    padding: 100px 0 60px !important;
+  }
+
+  /* Email button full width */
+  section#hero a[href^="mailto"] {
+    min-width: unset !important;
+    width: 100% !important;
+  }
+
+  /* CTA buttons stack vertically */
+  section#hero .d3 {
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  section#hero .d3 button {
+    width: 100% !important;
+    justify-content: center !important;
+  }
+}
+
+@media (max-width: 400px) {
+  section#hero h1 {
+    font-size: 44px !important;
+  }
+}
