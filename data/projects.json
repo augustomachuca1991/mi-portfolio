@@ -61,5 +61,16 @@
     "live": true,
     "imgColor": "#2d1040",
     "images": ["/prestadores/01.webp", "/prestadores/02.webp"]
+  },
+  {
+    "id": 6,
+    "number": "06",
+    "url": "https://presupuesto-online.vercel.app",
+    "tags": ["React", "Tailwind CSS", "Vite", "TypeScript", "supabase"],
+    "year": "2026",
+    "type": "Full-Stack",
+    "live": true,
+    "imgColor": "#2d1040",
+    "images": ["/presupuestos/01.webp", "/presupuestos/02.webp", "/presupuestos/03.webp", "/presupuestos/04.webp"]
   }
 ]
