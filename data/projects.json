@@ -21,7 +21,7 @@
   {
     "id": 2,
     "number": "02",
-    "url": "gestionodontologica.vercel.app",
+    "url": "clinica-adontologica-app.vercel.app/login",
     "tags": ["React", "Node.js", "Supabase", "Tailwind"],
     "year": "2026",
     "type": "Full-Stack",
@@ -65,7 +65,7 @@
   {
     "id": 6,
     "number": "06",
-    "url": "https://presupuesto-online.vercel.app",
+    "url": "presupuesto-online.vercel.app",
     "tags": ["React", "Tailwind CSS", "Vite", "TypeScript", "supabase"],
     "year": "2026",
     "type": "Full-Stack",
