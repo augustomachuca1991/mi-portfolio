@@ -15,7 +15,8 @@
       "/imagendocumental/04.webp",
       "/imagendocumental/05.webp",
       "/imagendocumental/06.webp",
-      "/imagendocumental/07.webp"
+      "/imagendocumental/07.webp",
+      "/imagendocumental/08.webp"
     ]
   },
   {
@@ -27,7 +28,16 @@
     "type": "Full-Stack",
     "live": true,
     "imgColor": "#1a3a2a",
-    "images": ["/odontologia/01.webp", "/odontologia/02.webp"]
+    "images": [
+      "/odontologia/01.webp",
+      "/odontologia/02.webp",
+      "/odontologia/03.webp",
+      "/odontologia/04.webp",
+      "/odontologia/05.webp",
+      "/odontologia/06.webp",
+      "/odontologia/07.webp",
+      "/odontologia/08.webp"
+    ]
   },
   {
     "id": 3,
@@ -49,7 +59,7 @@
     "type": "Frontend",
     "live": true,
     "imgColor": "#0b1a2e",
-    "images": ["/omint/01.webp", "/omint/02.webp", "/omint/03.webp", "/omint/04.webp", "/omint/05.webp", "/omint/06.webp"]
+    "images": ["/omint/01.webp", "/omint/02.webp", "/omint/03.webp", "/omint/04.webp", "/omint/05.webp", "/omint/06.webp", "/omint/07.webp", "/omint/08.webp"]
   },
   {
     "id": 5,
@@ -60,7 +70,16 @@
     "type": "Frontend",
     "live": true,
     "imgColor": "#2d1040",
-    "images": ["/prestadores/01.webp", "/prestadores/02.webp"]
+    "images": [
+      "/prestadores/01.webp",
+      "/prestadores/02.webp",
+      "/prestadores/03.webp",
+      "/prestadores/04.webp",
+      "/prestadores/05.webp",
+      "/prestadores/06.webp",
+      "/prestadores/07.webp",
+      "/prestadores/08.webp"
+    ]
   },
   {
     "id": 6,
@@ -71,6 +90,15 @@
     "type": "Full-Stack",
     "live": true,
     "imgColor": "#2d1040",
-    "images": ["/presupuestos/01.webp", "/presupuestos/02.webp", "/presupuestos/03.webp", "/presupuestos/04.webp"]
+    "images": [
+      "/presupuestos/01.webp",
+      "/presupuestos/02.webp",
+      "/presupuestos/03.webp",
+      "/presupuestos/04.webp",
+      "/presupuestos/05.webp",
+      "/presupuestos/06.webp",
+      "/presupuestos/07.webp",
+      "/presupuestos/08.webp"
+    ]
   }
 ]
